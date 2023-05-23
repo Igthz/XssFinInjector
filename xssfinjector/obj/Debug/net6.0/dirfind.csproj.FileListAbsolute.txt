@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\dirfind\dirfind\bin\Debug\net6.0\dirfind.exe
+C:\Users\Administrator\source\repos\dirfind\dirfind\bin\Debug\net6.0\dirfind.deps.json
+C:\Users\Administrator\source\repos\dirfind\dirfind\bin\Debug\net6.0\dirfind.runtimeconfig.json
+C:\Users\Administrator\source\repos\dirfind\dirfind\bin\Debug\net6.0\dirfind.dll
+C:\Users\Administrator\source\repos\dirfind\dirfind\bin\Debug\net6.0\dirfind.pdb
+C:\Users\Administrator\source\repos\dirfind\dirfind\obj\Debug\net6.0\dirfind.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\dirfind\dirfind\obj\Debug\net6.0\dirfind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\dirfind\dirfind\obj\Debug\net6.0\dirfind.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\dirfind\dirfind\obj\Debug\net6.0\dirfind.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\dirfind\dirfind\obj\Debug\net6.0\dirfind.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\dirfind\dirfind\obj\Debug\net6.0\dirfind.dll
+C:\Users\Administrator\source\repos\dirfind\dirfind\obj\Debug\net6.0\refint\dirfind.dll
+C:\Users\Administrator\source\repos\dirfind\dirfind\obj\Debug\net6.0\dirfind.pdb
+C:\Users\Administrator\source\repos\dirfind\dirfind\obj\Debug\net6.0\dirfind.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\dirfind\dirfind\obj\Debug\net6.0\ref\dirfind.dll

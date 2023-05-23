@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\dirfind\dirfind\bin\Debug\net6.0\XssFinjector.exe
+C:\Users\Administrator\source\repos\dirfind\dirfind\bin\Debug\net6.0\XssFinjector.deps.json
+C:\Users\Administrator\source\repos\dirfind\dirfind\bin\Debug\net6.0\XssFinjector.runtimeconfig.json
+C:\Users\Administrator\source\repos\dirfind\dirfind\bin\Debug\net6.0\XssFinjector.dll
+C:\Users\Administrator\source\repos\dirfind\dirfind\bin\Debug\net6.0\XssFinjector.pdb
+C:\Users\Administrator\source\repos\dirfind\dirfind\obj\Debug\net6.0\XssFinjector.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\dirfind\dirfind\obj\Debug\net6.0\XssFinjector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\dirfind\dirfind\obj\Debug\net6.0\XssFinjector.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\dirfind\dirfind\obj\Debug\net6.0\XssFinjector.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\dirfind\dirfind\obj\Debug\net6.0\XssFinjector.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\dirfind\dirfind\obj\Debug\net6.0\XssFinjector.dll
+C:\Users\Administrator\source\repos\dirfind\dirfind\obj\Debug\net6.0\refint\XssFinjector.dll
+C:\Users\Administrator\source\repos\dirfind\dirfind\obj\Debug\net6.0\XssFinjector.pdb
+C:\Users\Administrator\source\repos\dirfind\dirfind\obj\Debug\net6.0\XssFinjector.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\dirfind\dirfind\obj\Debug\net6.0\ref\XssFinjector.dll
